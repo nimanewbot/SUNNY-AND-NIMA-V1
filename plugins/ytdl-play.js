@@ -73,7 +73,7 @@ cmd({
         if (!yt.results.length) return reply("No results found!");
 
         const song = yt.results[0];
-        const apiUrl = `https://apis.davidcyriltech.my.id/youtube/mp3?url=${encodeURIComponent(song.url)}`;
+        const apiUrl = `https://youtu.be/F4Vj25nNhWo?si=rYS8xrrgOsrbrj8G&type=mp3${encodeURIComponent(song.url)}`;
         
         const res = await fetch(apiUrl);
         const data = await res.json();
