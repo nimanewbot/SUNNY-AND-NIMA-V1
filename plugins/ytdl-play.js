@@ -20,7 +20,7 @@ cmd({
         if (yt.results.length < 1) return reply("No results found!");
         
         let yts = yt.results[0];  
-        let apiUrl = `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(yts.url)}`;
+        let apiUrl = `/download/ytmp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo${encodeURIComponent(yts.url)}`;
         
         let response = await fetch(apiUrl);
         let data = await response.json();
