@@ -56,14 +56,14 @@ nimanew3031/SUNNY-AND-NIMA-V1l?color=blue&style=flat-square"></a>
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://erfan-pair-site-bc04b1a802bf.herokuapp.com/' target="_blank">
+<a href='https://darkzon2-a1cc64345937.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://erfan-pair-site-bc04b1a802bf.herokuapp.com/' target="_blank">
+<a href='https://darkzon2-a1cc64345937.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
