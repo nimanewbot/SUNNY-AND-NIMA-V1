@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> NIMESHA`;
+>NIMESHA`;
 
         // Send video directly with caption
         await conn.sendMessage(
@@ -86,13 +86,13 @@ cmd({
     contextInfo: {
         externalAdReply: {
             title: song.title.length > 25 ? `${song.title.substring(0, 22)}...` : song.title,
-            body: "Join our WhatsApp Group",
+            body: "THIS IS NIMA BOT BABY",
             mediaType: 1,
             thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
-            sourceUrl: 'https://chat.whatsapp.com/HLBP338VvUC0ms5NqCkSSO?mode=ac_t',
-            mediaUrl: 'https://chat.whatsapp.com/HLBP338VvUC0ms5NqCkSSO?mode=ac_t',
-            showAdAttribution: true,
-            renderLargerThumbnail: true
+            sourceUrl: 'https://whatsapp.com/channel/0029Vb68g1c3LdQLQDkbAQ3M',
+            mediaUrl: 'https://whatsapp.com/channel/0029Vb68g1c3LdQLQDkbAQ3M',
+            showAdAttribution: false,
+            renderLargerThumbnail: false
         }
     }
 }, { quoted: mek });
