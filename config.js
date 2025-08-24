@@ -27,7 +27,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.postimg.cc/TPPVtV9z/20250611-235300.png",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://kntn.ly/448ee5c0",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -47,7 +47,7 @@ OWNER_NAME: process.env.OWNER_NAME || "NIMESHA",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*CREATED BY NIMESHA*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/TPPVtV9z/20250611-235300.png",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://kntn.ly/f207a2c7",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> HEY IM ALIVE NOW  *SUNNY-AND-NIMA-V1*⚡",
 // add alive msg here 
