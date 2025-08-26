@@ -37,7 +37,7 @@ nimanew3031/SUNNY-AND-NIMA-V1l?color=blue&style=flat-square"></a>
   
 --- 
 
-<a center="https://ibb.co/GvT68BsK"><img src="https://files.catbox.moe/w9lv7j.jpg" alt="glow" border="0"></a>
+<a center="https://ibb.co/GvT68BsK"><img src="https://kntn.ly/448ee5c0" alt="glow" border="0"></a>
 ***
 
 
@@ -56,14 +56,14 @@ nimanew3031/SUNNY-AND-NIMA-V1l?color=blue&style=flat-square"></a>
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://irfan-pairs-t1yy.onrender.com/' target="_blank">
+<a href='http://localhost:8000' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://irfan-pairs-t1yy.onrender.com/' target="_blank">
+<a href='https://replit.com/@nimanewbot/Nima-1' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -227,3 +227,6 @@ jobs:
 </div>
 
 </div>
+...
+<a center="https://ibb.co/GvT68BsK"><img src="https://kntn.ly/f207a2c7" alt="glow" border="0"></a>
+***
