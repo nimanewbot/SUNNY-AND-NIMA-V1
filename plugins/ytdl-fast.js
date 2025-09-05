@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
->NIMESHA`;
+> CREATED BY NIMESHA`;
 
         // Send video directly with caption
         await conn.sendMessage(
@@ -86,11 +86,11 @@ cmd({
     contextInfo: {
         externalAdReply: {
             title: song.title.length > 25 ? `${song.title.substring(0, 22)}...` : song.title,
-            body: "THIS IS NIMA BOT BABY",
+            body: "nimesha",
             mediaType: 1,
             thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
-            sourceUrl: 'https://whatsapp.com/channel/0029Vb68g1c3LdQLQDkbAQ3M',
-            mediaUrl: 'https://whatsapp.com/channel/0029Vb68g1c3LdQLQDkbAQ3M',
+            sourceUrl: 'https://whatsapp.com/channel/0029Vb5dDVO5',
+            mediaUrl: 'https://whatsapp.com/channel/0029Vb5dDJ',
             showAdAttribution: false,
             renderLargerThumbnail: false
         }
